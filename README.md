@@ -17,6 +17,8 @@ Here is my tech stack :
 
 ✨ I hope you’ll enjoy browsing my projects ! ✨
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienDurup&layout=compact)
+
 <!-- 
 - ...
 - this list is becoming pretty cumbersome at this point.
