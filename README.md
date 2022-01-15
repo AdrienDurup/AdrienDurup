@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://github.com/AdrienDurup/AdrienDurup/blob/main/header/header_github.png" />
+
 I’m a JS web developer looking for a fulltime job !
 Former print graphic designer and adobe plugin/scripts developer, my wish is to develop web applications.
 I like both back end and front end development.
@@ -51,6 +52,8 @@ I like both back end and front end development.
 **AdrienDurup/AdrienDurup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+## Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
