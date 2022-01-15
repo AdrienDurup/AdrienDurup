@@ -1,4 +1,4 @@
-<img src="https://github.com/AdrienDurup/AdrienDurup/blob/main/header/header_github.png" />
+
 
 I’m a JS web developer looking for a fulltime job !
 Former print graphic designer and adobe plugin/scripts developer, my wish is to develop web applications.
