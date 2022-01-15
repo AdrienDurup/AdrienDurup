@@ -31,7 +31,11 @@ I like both back end and front end development.
 
 #### ✨ I hope you’ll enjoy browsing my projects ! ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienDurup&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienDurup&layout=compact&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrienDurup&repo=viewR&theme=dark)](https://github.com/Durad82/viewR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrienDurup&repo=10Fingers&theme=dark)](https://github.com/AdrienDurup/10Fingers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrienDurup&repo=games-with-vanillaJS&theme=dark)](https://github.com/AdrienDurup/games-with-vanillaJS)
 
 <!-- 
 <img width="32" height="32" src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-logo-png-transparent.png" alt="postgresql logo" />
