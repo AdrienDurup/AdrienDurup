@@ -3,8 +3,6 @@
 I’m a JS web developer looking for a fulltime job !
 Former print graphic designer and adobe plugin/scripts developer, my wish is to develop web applications.
 I like both back end and front end development.
-- 🌱 I’m currently learning React
-- ⚡ My next  move will be learning GraphQL
 
 ### Here is my tech stack :
 
