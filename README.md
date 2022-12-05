@@ -1,8 +1,8 @@
 <img src="https://github.com/AdrienDurup/AdrienDurup/blob/main/header/header_github2.png" />
 
-I’m a JS web developer looking for a fulltime job !
-Former print graphic designer and adobe plugin/scripts developer, my wish is to develop web applications.
-I like both back end and front end development.
+I’m a JS web developer, currently working with react for [Alliance Gravity](https://www.alliancegravity.com).
+Though i’m a former print graphic designer and adobe plugin/scripts developer,
+i like both back end and front end development.
 
 ### Here is my tech stack :
 
